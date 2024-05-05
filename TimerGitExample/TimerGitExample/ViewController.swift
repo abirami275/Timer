@@ -10,6 +10,10 @@ class A1 {
     
 }
 
+class A2 {
+    
+}
+
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
