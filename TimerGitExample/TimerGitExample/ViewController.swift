@@ -20,6 +20,6 @@ class ViewController: UIViewController {
 
 }
 
-class example {
+class Example {
     
 }
